@@ -45,6 +45,11 @@
       "value": "",
       "required": true
     },
+    "BOT_USERNAME": {
+      "description": ".",
+      "value": "",
+      "required": true
+    },
     "MUSIC_BOT_NAME": {
       "description": "A name for your Music Bot.",
       "value": "",
